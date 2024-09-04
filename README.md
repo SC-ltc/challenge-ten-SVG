@@ -1,1 +1,1 @@
-# challenge-ten-SVG
+# Module Ten Challenge - SVG Logo Maker
